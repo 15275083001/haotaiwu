@@ -1,0 +1,169 @@
+#logings{
+	height:96px;
+	padding:20px 0;
+	border-bottom:2px solid #f3a600;
+}
+
+#logings .margin{
+	height:100%;
+}
+
+#logings .margin a{
+	display:block;
+	margin-right:25px;
+	float:left;
+}
+
+#logings .margin span{
+	display:block;
+	height:56px;
+	padding-left:24px;
+	border-left:1px solid #eaeaea;
+	float:left;
+	font:18px/56px "";
+	color:#333;
+}
+
+#logings .margin img{
+	float:right;
+	
+}
+
+#login{
+	box-sizing: border-box;
+	padding:55px;
+	overflow: hidden;
+
+}
+
+#login .login-box img{
+	float:left;
+	width:620px;
+	height:380px;
+	margin-right:30px;
+}
+
+#login .login-box .login-right{
+	width:438px;
+	height:378px;
+	border:1px solid #eee;
+	border-radius: 3px;
+	float:left;
+}
+
+#login .login-box .login-right .form-box{
+	width:100%;
+	height:280px;
+	padding:40px 0;
+}
+
+
+#login .login-box .login-right .form-box .form-group{
+	height:38px;
+	margin-bottom:15px;
+	width:100%;
+
+}
+
+#login .login-box .login-right .form-box .form-group label{
+	width:100px;
+	text-align: right;
+	margin-right:10px;
+	font:14px "";
+	color:#666;
+}
+#login .login-box .login-right .form-box .form-group input{
+	width:260px;
+	padding:8px 10px;
+	border:1px solid #eee;
+	background:#fbfbfb;
+	font:14px "";
+	color:#999;
+	height:36px;
+	box-shadow: none;
+} 
+
+#login .login-box .login-right .form-box .form-group:nth-child(4){
+	margin-left:110px;
+	width:280px;
+	height:121px;
+	position: relative;
+}
+#login .login-box .login-right .form-box .form-group:nth-child(4) .errorText{
+	position: absolute;
+	top:5px;
+	left:0;
+	color: red;
+	font-size: 14px;
+
+}
+#login .login-box .login-right .form-box .form-group:nth-child(3) input{
+	width:120px;
+	margin-right:5px;
+}
+#login .login-box .login-right .form-box .form-group:nth-child(3) span{
+	height:38px;
+	padding:2px 5px;
+	font:24px/38px "";
+	color:red;
+	margin-right:5px;
+	margin-top:3px;
+}
+#login .login-box .login-right .form-box .form-group:nth-child(3) .refresh{
+	font:12px/38px "";
+	color:#666;
+	padding:0;
+	cursor:pointer;
+
+}
+#login .login-box .login-right .form-box .form-group:nth-child(3) .refresh:hover{
+	color:#f3a600;
+}
+
+#login .login-box .login-right .form-box .form-group p{
+	width:280px;
+	height:38px;
+	margin-top:45px;
+	background:#e5173e;
+	font:20px/38px "Microsoft YaHei";
+	color:#fff;
+	border:none;
+	text-align: center;
+	border-radius: 5px;
+
+
+}
+#login .login-box .login-right .form-box .form-group p:hover{
+	background:#ee1740;
+	cursor: pointer;
+}
+
+
+#login .login-box .login-right .form-box .form-group .other{
+	height:38px;
+	font:12px/38px "";
+	color:#eee;
+	text-align: right;
+}
+
+#login .login-box .login-right .form-box .form-group .other a{
+	color:#666;
+}
+#login .login-box .login-right .form-box .form-group .other a:hover{
+	color:#f3a600;
+}
+
+#login .login-box .login-right .form-box .form-group .other span{
+	margin:0 5px;
+}
+
+
+
+
+
+
+
+
+
+
+

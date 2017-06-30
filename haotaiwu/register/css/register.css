@@ -1,0 +1,159 @@
+#logings{
+	height:96px;
+	padding:20px 0;
+	border-bottom:2px solid #f3a600;
+}
+
+#logings .margin{
+	height:100%;
+}
+
+#logings .margin a{
+	display:block;
+	margin-right:25px;
+	float:left;
+}
+
+#logings .margin span{
+	display:block;
+	height:56px;
+	padding-left:24px;
+	border-left:1px solid #eaeaea;
+	float:left;
+	font:18px/56px "";
+	color:#333;
+}
+
+#logings .margin img{
+	float:right;
+	
+}
+
+
+
+
+
+#register{
+	height:536px;
+}
+
+#register .register-box{
+	width:530px;
+	height:466px;
+	margin:35px auto;
+}
+
+#register .register-box form{
+	width:100%;
+	padding:40px 30px;
+	height:100%;
+}
+
+#register .register-box form .form-group{
+	width:100%;
+	height:38px;
+	margin-bottom: 15px;
+}
+#register .register-box form .form-group label{
+	width:100px;
+	margin-right:10px;
+	font:14px "";
+	color:#666;
+	text-align: right;
+}
+#register .register-box form .form-group input{
+	height:36px;
+	width:320px;
+	padding:8px 5px;
+	box-shadow: none;
+	font:14px/20px "";
+	color:#999;
+}
+
+
+#register .register-box form .checkbox{
+	margin-left:115px;
+	margin-bottom:15px;
+}
+#register .register-box form .checkbox input{
+	margin-top:2px;
+	float:left;
+}
+
+#register .register-box form .form-group:nth-child(2) input{
+	width:160px;
+
+
+
+
+}
+#register .register-box form .form-group:nth-child(2) .verify{
+	height:30px;
+	padding:0 5px;
+	font:24px/24px "";
+	color:red;
+	margin-right:5px;
+
+}
+#register .register-box form .form-group:nth-child(2) .refresh{
+	font:12px/24px "";
+	color:#666;
+	padding:0;
+	cursor:pointer;
+
+}
+#register .register-box form .form-group:nth-child(2) .refresh:hover{
+	color:#f3a600;
+}
+
+#register .register-box form .form-group:nth-child(3) input{
+	width:160px;
+}
+#register .register-box form .form-group:nth-child(3) button{
+	width:130px;
+	background:#f8f8f8;;
+}
+
+#register .register-box form .form-group:last-child{
+	width:320px;
+	height:83px;
+	margin-left:115px;
+}
+
+#register .register-box form .form-group:last-child p{
+	width:320px;
+	height:38px;
+	margin-top:45px;
+	background:#e5173e;
+	font:20px/38px "Microsoft YaHei";
+	color:#fff;
+	border:none;
+	text-align: center;
+	cursor:pointer;
+	border-radius: 5px;
+}
+
+
+#register .register-box form .form-group:last-child p:hover{
+	background:#ee1740;
+}
+
+#register .register-box form div{
+	position: relative;
+}
+#register .register-box form div div{
+	position:absolute;
+	width:auto;
+	top:0;
+	left:450px;
+	border:1px solid #FFC9B3;
+	border-radius: 3px;
+	background:#FFF7F0;
+	padding:0 10px;
+	font:12px/36px "";
+	color:#f3a600;
+	height:36px;
+	display:none;
+	white-space: nowrap
+
+}
